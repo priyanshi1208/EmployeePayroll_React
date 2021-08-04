@@ -1,0 +1,58 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Priyanshi",
+      "department": [
+        "HR"
+      ],
+      "gender": "Female",
+      "salary": "30000",
+      "startDate": "4 Jul 2021",
+      "notes": "",
+      "profilePic": "../../assets/profile-image/Ellipse-1.png"
+    },
+    {
+      "data": {
+        "name": "Priyanshi Shukla",
+        "gender": "Female",
+        "profilePic": "profile1",
+        "salary": "372600",
+        "notes": "qwertyuio",
+        "startDate": "13 May ",
+        "department": "Sales"
+      },
+      "id": 2
+    },
+    {
+      "name": "Ayush",
+      "gender": "Female",
+      "profilePic": "profile3",
+      "salary": "385300",
+      "notes": "qwertyuiop",
+      "startDate": "14 May 2018",
+      "department": "Sales",
+      "id": 3
+    },
+    {
+      "name": "Priyanshi Shukla",
+      "gender": "Female",
+      "profilePic": "profile1",
+      "salary": "369700",
+      "notes": "qwertyui",
+      "startDate": "1 Aug 2021",
+      "department": "HR",
+      "id": 4
+    },
+    {
+      "name": "Saumya",
+      "gender": "Female",
+      "profilePic": "profile1",
+      "salary": "393300",
+      "notes": "23456789",
+      "startDate": "1 Aug 2021",
+      "department": "HR",
+      "id": 5
+    }
+  ]
+}
